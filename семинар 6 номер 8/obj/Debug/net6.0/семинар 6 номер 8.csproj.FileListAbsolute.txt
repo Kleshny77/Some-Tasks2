@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/inch/семинар 6 номер 8/bin/Debug/net6.0/семинар 6 номер 8
+/Users/kleshny/Projects/inch/семинар 6 номер 8/bin/Debug/net6.0/семинар 6 номер 8.deps.json
+/Users/kleshny/Projects/inch/семинар 6 номер 8/bin/Debug/net6.0/семинар 6 номер 8.runtimeconfig.json
+/Users/kleshny/Projects/inch/семинар 6 номер 8/bin/Debug/net6.0/семинар 6 номер 8.dll
+/Users/kleshny/Projects/inch/семинар 6 номер 8/bin/Debug/net6.0/семинар 6 номер 8.pdb
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.AssemblyInfo.cs
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.dll
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/refint/семинар 6 номер 8.dll
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.pdb
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/семинар 6 номер 8.genruntimeconfig.cache
+/Users/kleshny/Projects/inch/семинар 6 номер 8/obj/Debug/net6.0/ref/семинар 6 номер 8.dll
